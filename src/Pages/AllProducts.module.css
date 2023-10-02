@@ -1,0 +1,17 @@
+.products{
+    background-color: rgba(0, 0, 0, 0.03);
+}
+.products h1{
+    text-align: center;
+    padding: 20px 0px;
+    color: rgb(60,60,60);
+}
+.productsStyle{
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.loading{
+      color: #e58b05 !important;
+}
